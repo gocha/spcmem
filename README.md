@@ -15,6 +15,11 @@ This tool currently supports the following operating systems:
 
 [1] In 64bit environment, it works as a 32bit executable thanks to WOW64 feature. (Task Manager will indicate *32 in the image name column.)
 
+Download
+--------
+
+[Download Latest Release](https://github.com/gocha/spcmem/releases/latest)
+
 How To Install
 --------------
 

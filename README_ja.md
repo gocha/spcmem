@@ -16,6 +16,11 @@ SNES SPC700 Player Memory Viewer
 
 ※ 64bit 環境では WOW64 機能により 32bit 版として動作します。(タスクマネージャで *32 が表示されます)
 
+ダウンロード
+------------
+
+[最新版をダウンロード](https://github.com/gocha/spcmem/releases/latest)
+
 インストール方法
 ----------------
 
