@@ -1,0 +1,120 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_ACCELERATOR1 ACCELERATORS 
+BEGIN
+    VK_ESCAPE,      IDCANCEL,               VIRTKEY, NOINVERT
+    "G",            ID_GOTO_ADDRESS,        VIRTKEY, CONTROL, NOINVERT
+END
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "rsrc\\app.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_MEM_VIEW DIALOGEX 0, 0, 444, 283
+STYLE DS_SETFONT | DS_CENTER | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    GROUPBOX        "Region",IDC_STATIC,6,6,66,30
+    COMBOBOX        IDC_REGION,12,18,54,30,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "View mode",IDC_STATIC,78,6,60,30
+    COMBOBOX        IDC_VIEWMODE,84,18,48,30,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "Address",IDC_STATIC,144,6,108,30
+    EDITTEXT        IDC_ADDRESS,150,18,72,14,ES_AUTOHSCROLL,WS_EX_TRANSPARENT
+    PUSHBUTTON      "Go",IDC_GO,222,18,25,14
+    GROUPBOX        "Dump view",IDC_STATIC,258,6,180,30
+    PUSHBUTTON      "Text dump",IDC_TEXTDUMP,264,18,49,14
+    PUSHBUTTON      "Raw dump",IDC_RAWDUMP,317,18,48,14
+    PUSHBUTTON      "Dump All",IDC_DUMPALL,369,18,48,14
+    CONTROL         "1",IDC_MEMVIEWBOX,"MemView_ViewBox",WS_VSCROLL | WS_TABSTOP,6,42,432,204
+    PUSHBUTTON      "Close",IDCANCEL,378,262,60,15
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_MEM_VIEW, DIALOG
+    BEGIN
+        RIGHTMARGIN, 438
+        BOTTOMMARGIN, 270
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
