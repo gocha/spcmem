@@ -53,7 +53,7 @@ Greetings / Credits
 
 If you find a bug, please fix it. ;)
 
-Hmm, if you cannot fix the bug, report it to the site. <http://code.google.com/p/gochaism/>
+Hmm, if you cannot fix the bug, report it to the [Github / SPCMEM](https://github.com/gocha/spcmem).
 
 This tool is released under GPL because I borrowed a part of code from DeSmuME.
 
@@ -64,10 +64,10 @@ SNES and Super Nintendo Entertainment System are trademarks of Nintendo Co., Lim
 Me
   : for creating this awesome tool.
 
-dgrfactory <http://dgrfactory.jp/>
+[dgrfactory](http://dgrfactory.jp/)
   : for SNES SPC700 Player and its source code and README.
 
-DeSmuME <http://desmume.org/>
+[DeSmuME](http://desmume.org/)
   : for Memory Viewer source code.
 
 Google and countless websites

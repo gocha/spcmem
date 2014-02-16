@@ -21,9 +21,7 @@ SNES SPC700 Player Memory Viewer
 
 SPCMEM.EXE を起動してください。
 
-あとは SNES SPC700 Player を起動すれば、何かが起こる――全米が涙した感動の話題作
-
-SNES SPC700 Player はこちらから入手してください。 <http://dgrfactory.jp/>
+あとは [SNES SPC700 Player](http://dgrfactory.jp/) を起動すれば、何かが起こる――全米が涙した感動の話題作
 
 アンインストール方法
 --------------------
@@ -56,7 +54,7 @@ SNES SPC700 Player はこちらから入手してください。 <http://dgrfact
 
 DeSmuME からコードをパクっているので、多分ライセンスは GPL だと思います。
 
-多分ここで公開されるバージョンが一番新しいと思います。 <http://code.google.com/p/gochaism/>
+多分 [Github / SPCMEM](https://github.com/gocha/spcmem) で公開されるバージョンが一番新しいと思います。
 
 SNES および Super Nintendo Entertainment System は、米国 Nintendo Co. の商標です。
 
@@ -64,10 +62,10 @@ SNES および Super Nintendo Entertainment System は、米国 Nintendo Co. の
 
 このソフトウェアは、主に以下のファイル、または資料を使用して開発されています。貴重な資料を公開していただき、ありがとうございます。
 
-デグレファクトリー <http://dgrfactory.jp/>
+[デグレファクトリー](http://dgrfactory.jp/)
   : SNES SPC700 Player のソースコードと README
 
-DeSmuME <http://desmume.org/>
+[DeSmuME](http://desmume.org/)
   : Memory Viewer のソースコード
 
 その他、ぐぐって出てくる情報いっぱい
