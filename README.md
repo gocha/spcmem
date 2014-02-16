@@ -53,7 +53,7 @@ Greetings / Credits
 
 If you find a bug, please fix it. ;)
 
-Hmm, if you cannot fix the bug, report it to the [Github / SPCMEM](https://github.com/gocha/spcmem).
+Hmm, if you cannot fix the bug, report it to [Github / SPCMEM](https://github.com/gocha/spcmem).
 
 This tool is released under GPL because I borrowed a part of code from DeSmuME.
 
