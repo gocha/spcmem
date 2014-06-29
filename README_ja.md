@@ -1,5 +1,7 @@
 SNES SPC700 Player Memory Viewer
---------------------------------
+================================
+
+![SNES SPC700 Player Memory Viewer スクリーンショット](doc/assets/images/spcmem.png)
 
 "SNES SPC700 Player Memory Viewer" は、"SNES SPC700 Player" と併せて使用できるシンプルな設計のメモリビューアです。本ソフトウェアの特徴は以下のとおりです。
 

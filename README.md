@@ -1,5 +1,7 @@
 SNES SPC700 Player Memory Viewer
---------------------------------
+================================
+
+![SNES SPC700 Player Memory Viewer screenshot](doc/assets/images/spcmem.png)
 
 "SNES SPC700 Player Memory Viewer" is an external memory viewer for "SNES SPC700 Player". It has the following features.
 
