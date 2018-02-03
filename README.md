@@ -1,5 +1,6 @@
 SNES SPC700 Player Memory Viewer
 ================================
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/9i97g8g7fgs9fbfn/branch/master?svg=true)](https://ci.appveyor.com/project/gocha/spcmem/branch/master)
 
 ![SNES SPC700 Player Memory Viewer screenshot](doc/assets/images/spcmem.png)
 
