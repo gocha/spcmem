@@ -20,7 +20,7 @@ init:
   - git config --global core.autocrlf true
 
 build_script:
-  - msbuild src\spcmem.sln /t:build /p:Configuration=%config%;Platform="%platform%" /m
+  - msbuild src\spcmem.sln /t:build /p:Configuration=%config%;Platform="%platform%" /m /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll"
 
 after_build:
   - ps: $env:gitrev = git describe --tags
