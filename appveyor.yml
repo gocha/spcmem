@@ -29,8 +29,8 @@ after_build:
   - ps: $env:my_version = "$env:gitrev"
   - set package_name=spcmem-%my_version%-%arch%
   - copy src\%outdir%\spcmem.exe .
-  - 7z a -mx9 %package_name%.7z spcmem.exe README.md README_ja.md LICENSE.txt
+  - 7z a %package_name%.zip spcmem.exe README.md README_ja.md LICENSE.txt
 
 artifacts:
-  - path: $(package_name).7z
+  - path: $(package_name).zip
     name: $(arch)
