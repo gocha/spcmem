@@ -13,8 +13,8 @@ SNES SPC700 Player Memory Viewer
 
 This tool currently supports the following operating systems:
 
-- 32bit Windows 2000, XP, Vista, 7
-- 64bit Windows Vista, 7 [1]
+- 32bit Windows 7, 8, 8.1, 10
+- 64bit Windows 7, 8, 8.1, 10 [1]
 
 [1] In 64bit environment, it works as a 32bit executable thanks to WOW64 feature. (Task Manager will indicate *32 in the image name column.)
 
